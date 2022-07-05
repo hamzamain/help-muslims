@@ -1,10 +1,14 @@
 body {
     /* font-family: 'Mingzat', sans-serif; */
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
     font-family: 'Roboto', sans-serif;
     font-family: 'Rubik Moonrocks', cursive;
     padding: 0;
     margin: 0;
+}
+
+.highlights {
+    color: orange;
 }
 
 .anchor-button-style {
