@@ -190,6 +190,8 @@ footer {
 }
 
 span {
+    font-family: 'Niconne', cursive;
+    /* font-family: 'Roboto', sans-serif; */
     color: orange;
 }
 
