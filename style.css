@@ -197,6 +197,13 @@ button {
     border: none;
 }
 
+.form-bg {
+    padding: 40px 80px;
+    background-color: orange;
+    width: 40%;
+    margin: 0 auto;
+}
+
 #food-color {
     background-color: rgba(222, 184, 135, 0.254);
 }
