@@ -28,6 +28,11 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.302);
+    /* padding-left: 40px;
+    padding-right: 40px; */
+    padding-bottom: 20px;
+    border-radius: 5px;
 }
 
 .section-bottom-margin {
