@@ -54,7 +54,7 @@ input[type=text] {
 .anchor-button-style-sce2 {
     background-color: orangered;
     padding: 10px 20px;
-    border-radius: 10px;
+    border-radius: 5px;
     font-size: 20px;
     color: white;
     text-decoration: none;
@@ -83,8 +83,35 @@ input[type=text] {
     margin: 10px auto;
 }
 
+#hyper-h1-need-extra-care {
+    font-size: 30px;
+    padding: 10px 0;
+    margin: 10px auto;
+}
+
 .side-by-side {
     display: flex;
+}
+
+.scetion3-div {
+    width: 20%;
+    height: 200%;
+    padding: 40px;
+    margin: auto;
+    text-align: justify;
+    /* box-shadow: 10px 10px 40px lightgray; */
+}
+
+
+
+
+.icon-size {
+    height: 80px;
+    width: 80px;
+}
+
+.sec3-space {
+    padding: 10px 0;
 }
 
 .donate-amount {
@@ -112,6 +139,8 @@ input[type=text] {
     padding-bottom: 40px;
 }
 
+
+
 .highlights {
     color: orange;
 }
@@ -119,7 +148,7 @@ input[type=text] {
 .anchor-button-style {
     background-color: orangered;
     padding: 10px 20px;
-    border-radius: 10px;
+    border-radius: 5px;
     font-size: 20px;
     color: white;
     text-decoration: none;
@@ -157,4 +186,34 @@ footer {
 
 span {
     color: orange;
+}
+
+button {
+    border: none;
+}
+
+#food-color {
+    background-color: rgba(222, 184, 135, 0.254);
+}
+
+#shelter-color {
+    background-color: rgba(95, 158, 160, 0.289);
+}
+
+#education-color {
+    background-color: rgba(210, 105, 30, 0.269);
+}
+
+input[type=email] {
+    background-color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    /* border-bottom: 1px solid black;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0; */
+    text-align: center;
 }
